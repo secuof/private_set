@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/secuof/git/crawler'
+let g:netrw_dirhist_2='/Users/secuof/.vim/erics_vim_syntax_and_color_highlighting'
+let g:netrw_dirhist_3='/Users/secuof/.vim/erics_vim_syntax_and_color_highlighting/after'
+let g:netrw_dirhist_4='/Users/secuof/.vim/erics_vim_syntax_and_color_highlighting'
+let g:netrw_dirhist_5='/Applications/Splunk/var/splunk_app_db_connect/logs.lock'
+let g:netrw_dirhist_6='/Users/secuof/.vim'
